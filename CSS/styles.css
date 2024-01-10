@@ -17,11 +17,6 @@ div {
 
 #teamo{
     display: flex;
-    justify-content: center;
+    
 }
 
-.video{
-    display: flex;
-    position: relative;
-    left: 33%;
-}
